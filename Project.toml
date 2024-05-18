@@ -3,6 +3,9 @@ uuid = "bd9f53de-4a41-4c9e-bff2-5ae0022b6444"
 authors = ["Eric P. Hanson"]
 version = "1.0.0-DEV"
 
+[deps]
+Cassette = "7057c7e9-c182-5462-911a-8362d720325c"
+
 [compat]
 julia = "1.9"
 
